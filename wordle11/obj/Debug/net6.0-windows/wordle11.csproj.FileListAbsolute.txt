@@ -1,0 +1,17 @@
+C:\Users\HP\OneDrive\Документи\GitHub\wordle-project1111\wordle11\bin\Debug\net6.0-windows\wordle11.exe
+C:\Users\HP\OneDrive\Документи\GitHub\wordle-project1111\wordle11\bin\Debug\net6.0-windows\wordle11.deps.json
+C:\Users\HP\OneDrive\Документи\GitHub\wordle-project1111\wordle11\bin\Debug\net6.0-windows\wordle11.runtimeconfig.json
+C:\Users\HP\OneDrive\Документи\GitHub\wordle-project1111\wordle11\bin\Debug\net6.0-windows\wordle11.dll
+C:\Users\HP\OneDrive\Документи\GitHub\wordle-project1111\wordle11\bin\Debug\net6.0-windows\wordle11.pdb
+C:\Users\HP\OneDrive\Документи\GitHub\wordle-project1111\wordle11\obj\Debug\net6.0-windows\wordle11.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Документи\GitHub\wordle-project1111\wordle11\obj\Debug\net6.0-windows\Wordle.WordleForm.resources
+C:\Users\HP\OneDrive\Документи\GitHub\wordle-project1111\wordle11\obj\Debug\net6.0-windows\wordle11.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Документи\GitHub\wordle-project1111\wordle11\obj\Debug\net6.0-windows\wordle11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Документи\GitHub\wordle-project1111\wordle11\obj\Debug\net6.0-windows\wordle11.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Документи\GitHub\wordle-project1111\wordle11\obj\Debug\net6.0-windows\wordle11.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Документи\GitHub\wordle-project1111\wordle11\obj\Debug\net6.0-windows\wordle11.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Документи\GitHub\wordle-project1111\wordle11\obj\Debug\net6.0-windows\wordle11.dll
+C:\Users\HP\OneDrive\Документи\GitHub\wordle-project1111\wordle11\obj\Debug\net6.0-windows\refint\wordle11.dll
+C:\Users\HP\OneDrive\Документи\GitHub\wordle-project1111\wordle11\obj\Debug\net6.0-windows\wordle11.pdb
+C:\Users\HP\OneDrive\Документи\GitHub\wordle-project1111\wordle11\obj\Debug\net6.0-windows\wordle11.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Документи\GitHub\wordle-project1111\wordle11\obj\Debug\net6.0-windows\ref\wordle11.dll
